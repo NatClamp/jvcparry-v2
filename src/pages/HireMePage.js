@@ -7,13 +7,13 @@ import Loading from '../components/Loading'
 
 const HomePage = () => {
 
-    return (
-        <Container>
-            <Row>
-                Home
+  return (
+    <Container>
+      <Row>
+        Hire me!
             </Row>
-        </Container>
-    )
+    </Container>
+  )
 }
 
 export default HomePage
